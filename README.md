@@ -5,7 +5,7 @@ This project is a conversational chatbot designed to enhance user interaction an
 
 ## Features
 - **Natural Language Processing (NLP)**: Understands and responds to user queries accurately.
-- **Database Integration**: Connects to SQL databases to retrieve and update information dynamically.
+- **Database Integration**: Connects to FAISS databases to retrieve and update information dynamically.
 - **Scalability**: Modular architecture allows for easy feature additions and improvements.
 - **Customizable Responses**: Adapts to the specific needs of DBU users.
 
